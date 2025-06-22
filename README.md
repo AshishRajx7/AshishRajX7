@@ -123,5 +123,24 @@
   </a>
 </p>
 
+---
 
+<h3 align="left">🔥 Featured Projects:</h3>
 
+- 🔹 [SecureUPI: C++ UPI Fraud Detection Simulator](https://github.com/AshishRajx7/secureupi)  
+  <i>A console-based UPI transaction simulator with system-level fraud detection and merchant risk profiling.</i>
+
+- 🔹 [Spend Guard: UPI Spend & Fraud Analyzer Dashboard](https://github.com/AshishRajx7/spend-guard)  
+  <i>Streamlit-based UPI spending analysis dashboard with real-time fraud alerts and explainable ML using SHAP.</i>
+
+- 🔹 [Transformer: Decoder-Only GPT-Style Language Model](https://github.com/AshishRajx7/transformer-project)  
+  <i>Minimal implementation of a GPT-style transformer for sequence modeling and language tasks.</i>
+
+- 🔹 [Reinforcement Learning Lunar Lander](https://github.com/AshishRajx7/lunar-lander-rl)  
+  <i>Trained a reinforcement learning agent to solve the Lunar Lander environment using OpenAI Gym.</i>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishrajx7&show_icons=true&locale=en&layout=compact" alt="ashishrajx7" />
+</p>
