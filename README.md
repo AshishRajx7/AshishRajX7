@@ -1,15 +1,32 @@
 <h1 align="center">Hi 👋, I'm Ashish Raj</h1>
-<h3 align="center">Backend Developer | Machine Learning Enthusiast | System Designer</h3>
+<h3 align="center">Machine Learning Developer | LLM and MLOps Enthusiast | System Design Learner</h3>
 
-- 🔭 I’m currently working on **SecureUPI: C++ Console-Based UPI Fraud Simulator**
-- 🌱 I’m focusing on **System Design, Advanced DSA, and Machine Learning**
-- 👯 I’m looking to collaborate on **Fraud Detection Systems, Scalable Backends, and ML Applications**
+<p align="center">
+  <a href="https://github.com/AshishRajx7/isLoyal">
+    <img src="https://img.shields.io/badge/-⭐ Best Project: LoyaltyCheck-blueviolet?style=for-the-badge&logo=github" alt="Best Project Badge">
+  </a>
+</p>
+
+[![LoyaltyCheck Repo](https://img.shields.io/badge/GitHub-LoyaltyCheck-blue?logo=github)](https://github.com/AshishRajx7/isLoyal)
+
+- 🔭 I’m currently working on **LLM Fine-Tuning for Domain-Specific Chatbots**
+- 🌱 I’m focusing on **LLM Fine-Tuning, MLOps, and System Design**
+- 👯 I’m looking to collaborate on **LLM-Based Applications, Fraud Detection Systems, and Scalable ML Backends**
 - 📂 My projects: [GitHub Portfolio](https://github.com/AshishRajx7?tab=repositories)
-- 💬 Ask me about **C++, Python, System Design, Machine Learning, Fraud Detection**
+- 💬 Ask me about **LLMs, Prompt Engineering, Python, MLOps, System Design, Fraud Detection**
 - 📫 Reach me at: **ashishrajcr7@gmail.com**
-- ⚡ Quick Fact: Passionate about solving real-world financial and data-driven problems.
+- ⚡ Quick Fact: Passionate about building intelligent, scalable, and explainable AI systems.
 
 [![Ashish's LeetCode Stats](https://leetcard.jacoblin.cool/Ashish_X7?theme=dark&font=Baloo)](https://leetcode.com/AshishRaj)
+
+---
+
+### 🚀 Recent Tech Stack:
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-Explainer-blue)
+![System Design](https://img.shields.io/badge/System%20Design-Architectural-green)
 
 ---
 
@@ -51,7 +68,7 @@
 
 <h3 align="left">Backend and System Design Tools:</h3>
 <p align="left">
-  Flask • REST APIs • Git • Postman • OOP Design • File Handling (C++)
+  FastAPI • Flask • REST APIs • Git • Postman • OOP Design • File Handling (C++)
 </p>
 
 ---
@@ -126,6 +143,9 @@
 ---
 
 <h3 align="left">🔥 Featured Projects:</h3>
+
+- 🔹 [LoyaltyCheck: Privacy-Preserving Loyalty Detection System](https://github.com/AshishRajx7/isLoyal)  
+  <i>System design-based privacy-preserving loyalty detection system using FastAPI, Streamlit, API-key-based multi-partner access, real-time CSV input handling, and explainable ML with SHAP.</i>
 
 - 🔹 [SecureUPI: C++ UPI Fraud Detection Simulator](https://github.com/AshishRajx7/secureupi)  
   <i>A console-based UPI transaction simulator with system-level fraud detection and merchant risk profiling.</i>
