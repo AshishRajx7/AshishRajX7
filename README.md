@@ -17,7 +17,8 @@
 
 - ⚡ Fun fact **I am Funny**
 
-- [![Ashish's LeetCode Stats](https://leetcard.jacoblin.cool/Ashish_X7?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/AshishRaj)
+- [![Ashish's LeetCode Stats](https://leetcard.jacoblin.cool/Ashish_X7?theme=dark&font=Baloo)](https://leetcode.com/AshishRaj)
+
 
 
 <h3 align="left">Connect with me:</h3>
