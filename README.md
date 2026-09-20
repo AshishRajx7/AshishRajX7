@@ -7,7 +7,7 @@
   </a>
 </p>
 
-[![LoyaltyCheck Repo](https://img.shields.io/badge/GitHub-LoyaltyCheck-blue?logo=github)](https://github.com/AshishRajx7/isLoyal)
+[![LoyaltyCheck Repo](https://img.shields.io/badge/GitHub-LoyaltyCheck-blue?logo=github)](https://github.com/AshishRajx7/LawBot)
 
 - 🔭 I’m currently working on **LLM Fine-Tuning for Domain-Specific Chatbots**
 - 🌱 I’m focusing on **LLM Fine-Tuning, MLOps, and System Design**
