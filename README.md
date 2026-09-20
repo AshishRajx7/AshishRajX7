@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashish Raj</h1>
 <h3 align="center">Machine Learning Developer | LLM and MLOps Enthusiast | System Design Learner</h3>
 
-<p align="center">
-  <a href="https://github.com/AshishRajx7/isLoyal">
-    <img src="https://img.shields.io/badge/-⭐ Best Project: LoyaltyCheck-blueviolet?style=for-the-badge&logo=github" alt="Best Project Badge">
-  </a>
-</p>
 
 [![LoyaltyCheck Repo](https://img.shields.io/badge/GitHub-LoyaltyCheck-blue?logo=github)](https://github.com/AshishRajx7/LawBot)
 
