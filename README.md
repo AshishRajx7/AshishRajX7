@@ -1,161 +1,166 @@
 <h1 align="center">Hi 👋, I'm Ashish Raj</h1>
-<h3 align="center">Machine Learning Developer | LLM and MLOps Enthusiast | System Design Learner</h3>
+<h3 align="center">Backend Engineer | Distributed Systems | AI Infrastructure | System Design</h3>
 
+<p align="center">
+Building reliable systems, scalable backend services, and AI-powered products.
+</p>
 
-[![LoyaltyCheck Repo](https://img.shields.io/badge/GitHub-LoyaltyCheck-blue?logo=github)](https://github.com/AshishRajx7/LawBot)
+---
 
-- 🔭 I’m currently working on **LLM Fine-Tuning for Domain-Specific Chatbots**
-- 🌱 I’m focusing on **LLM Fine-Tuning, MLOps, and System Design**
-- 👯 I’m looking to collaborate on **LLM-Based Applications, Fraud Detection Systems, and Scalable ML Backends**
-- 📂 My projects: [GitHub Portfolio](https://github.com/AshishRajx7?tab=repositories)
-- 💬 Ask me about **LLMs, Prompt Engineering, Python, MLOps, System Design, Fraud Detection**
+- 🔭 Currently building **backend systems, AI infrastructure, and distributed applications**
+- 🌱 Exploring **Distributed Systems, System Design, Event-Driven Architectures, and AI Engineering**
+- 👯 Open to collaborating on **Backend Platforms, Developer Tools, AI Applications, and Infrastructure Projects**
+- 💬 Ask me about **NestJS, PostgreSQL, Redis, System Design, RAG, APIs, and Backend Architecture**
 - 📫 Reach me at: **ashishrajcr7@gmail.com**
-- ⚡ Quick Fact: Passionate about building intelligent, scalable, and explainable AI systems.
+- ⚡ Fun Fact: I enjoy finding and fixing problems where getting it wrong actually matters.
+
+---
+
+## 🚀 About Me
+
+I'm a Backend Engineer who enjoys building systems that need to be secure, scalable, and reliable.
+
+At work, I've built audit logging infrastructure across multiple product modules, fixed authorization vulnerabilities, optimized backend performance, and worked on large-scale business systems.
+
+Outside work, I build products to explore ideas I'm curious about—from legal AI assistants and workflow orchestration engines to API gateways and developer tools.
+
+I'm also a **Codeforces Specialist (1448)** and have solved **500+ DSA problems**, mainly because I genuinely enjoy problem-solving.
+
+---
+
+## 🔥 Featured Projects
+
+### 🔹 Relay — AI-Powered Outreach Platform
+
+AI-powered recruiting and outreach platform built with a scalable backend architecture.
+
+**Tech Stack:** NestJS • PostgreSQL • Redis • BullMQ • Docker • OpenAI
+
+**Highlights**
+- Resume processing pipelines
+- Candidate profile extraction
+- Background job processing
+- AI provider abstraction layer
+- Retry and failure recovery mechanisms
+- Production-ready architecture
+
+🔗 https://github.com/AshishRajx7/Relay
+
+---
+
+### 🔹 LawBot — Hybrid Legal Research Assistant
+
+Advanced legal research platform combining vector search, keyword retrieval, and knowledge graphs.
+
+**Tech Stack:** Python • FAISS • Ollama • LLaMA 3 • RAG • Knowledge Graphs
+
+**Highlights**
+- Hybrid retrieval architecture
+- Knowledge graph-enhanced search
+- Local LLM inference
+- Legal document intelligence
+- Improved retrieval precision
+
+🔗 https://github.com/AshishRajx7/LawBot
+
+---
+
+### 🔹 Sentinel Gateway — Secure API Gateway
+
+Centralized API gateway for authentication, authorization, traffic control, and observability.
+
+**Tech Stack:** Node.js • Express • Redis • JWT • Docker
+
+**Highlights**
+- JWT authentication
+- Redis-based rate limiting
+- Request routing
+- Service-level security controls
+- API observability
+
+🔗 https://github.com/AshishRajx7/sentinel-gateway
+
+---
+
+### 🔹 SQLSheet — SQL-Powered Spreadsheet Analytics
+
+Spreadsheet-style analytics platform enabling users to query datasets using SQL.
+
+**Tech Stack:** React • FastAPI • PostgreSQL • Pandas
+
+**Highlights**
+- SQL query interface
+- Dataset exploration
+- Interactive analytics
+- FastAPI backend
+- Real-time data analysis
+
+🔗 https://github.com/AshishRajx7/SQLsheet
+
+---
+
+### 🔹 Workflow Engine — Event-Driven Process Orchestration
+
+Configurable workflow orchestration platform designed for scalable business process automation.
+
+**Tech Stack:** NestJS • PostgreSQL • Redis • Docker
+
+**Highlights**
+- Event-driven workflows
+- State-machine execution
+- Retry and recovery handling
+- Workflow tracking
+- Process automation
+
+🔗 https://github.com/AshishRajx7/Workflow_Engine
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Backend & Infrastructure
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### AI & Retrieval
+
+![RAG](https://img.shields.io/badge/RAG-Applications-blue?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-green?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-AI%20Systems-orange?style=for-the-badge)
+![Knowledge Graphs](https://img.shields.io/badge/Knowledge%20Graphs-Retrieval-purple?style=for-the-badge)
+
+---
+
+## 📈 Coding Profiles
+
+- Codeforces Specialist (1448)
+- 500+ DSA Problems Solved
 
 [![Ashish's LeetCode Stats](https://leetcard.jacoblin.cool/Ashish_X7?theme=dark&font=Baloo)](https://leetcode.com/AshishRaj)
 
 ---
 
-### 🚀 Recent Tech Stack:
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-Explainer-blue)
-![System Design](https://img.shields.io/badge/System%20Design-Architectural-green)
 
----
+## 🤝 Connect With Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://instagram.com/ashish_x7" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashish_x7" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<h3 align="left">Languages and Core Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-    <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="streamlit" width="100" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-<h3 align="left">Backend and System Design Tools:</h3>
-<p align="left">
-  FastAPI • Flask • REST APIs • Git • Postman • OOP Design • File Handling (C++)
-</p>
-
----
-
-<h3 align="left">Data and Machine Learning Tools:</h3>
-<p align="left">
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-</p>
-<p align="left">
-  SHAP • Reinforcement Learning (Gymnasium)
-</p>
-
----
-
-<h3 align="left">Web Development Tools:</h3>
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-<h3 align="left">Current Learning and Exploration:</h3>
-<p align="left">
-  <a href="https://huggingface.co/transformers/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="transformers" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-<h3 align="left">🔥 Featured Projects:</h3>
-
-- 🔹 [LoyaltyCheck: Privacy-Preserving Loyalty Detection System](https://github.com/AshishRajx7/isLoyal)  
-  <i>System design-based privacy-preserving loyalty detection system using FastAPI, Streamlit, API-key-based multi-partner access, real-time CSV input handling, and explainable ML with SHAP.</i>
-
-- 🔹 [SecureUPI: C++ UPI Fraud Detection Simulator](https://github.com/AshishRajx7/secureupi)  
-  <i>A console-based UPI transaction simulator with system-level fraud detection and merchant risk profiling.</i>
-
-- 🔹 [Spend Guard: UPI Spend & Fraud Analyzer Dashboard](https://github.com/AshishRajx7/spend-guard)  
-  <i>Streamlit-based UPI spending analysis dashboard with real-time fraud alerts and explainable ML using SHAP.</i>
-
-- 🔹 [Transformer: Decoder-Only GPT-Style Language Model](https://github.com/AshishRajx7/transformer-project)  
-  <i>Minimal implementation of a GPT-style transformer for sequence modeling and language tasks.</i>
-
-- 🔹 [Reinforcement Learning Lunar Lander](https://github.com/AshishRajx7/lunar-lander-rl)  
-  <i>Trained a reinforcement learning agent to solve the Lunar Lander environment using OpenAI Gym.</i>
+- GitHub: https://github.com/AshishRajx7
+- LinkedIn: https://www.linkedin.com/in/ashishrajx7
+- Email: ashishrajcr7@gmail.com
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishrajx7&show_icons=true&locale=en&layout=compact" alt="ashishrajx7" />
+  <i>Building systems that people can depend on.</i>
 </p>
